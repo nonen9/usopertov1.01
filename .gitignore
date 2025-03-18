@@ -30,7 +30,7 @@ env.bak/
 venv.bak/
 
 # Environment variables
-.env
+#.env
 
 # IDE
 .idea/
