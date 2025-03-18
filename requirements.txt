@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+numpy
+scikit-learn
+requests
+python-dotenv
+openpyxl
+polyline
+geopy
